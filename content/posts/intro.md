@@ -8,6 +8,7 @@ Algunos aspectos que caracterizan a un desarrollador de software competente son:
 
 - Honestidad
 - Responsabilidad
+- Respeto
 - Creatividad
 - Comunicación
 - Trabajo en equipo
